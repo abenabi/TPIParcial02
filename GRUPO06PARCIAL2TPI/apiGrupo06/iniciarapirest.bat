@@ -1,1 +1,0 @@
-npx json-server --watch deportes.json
